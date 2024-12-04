@@ -7,8 +7,8 @@ Python: 3.8.10 <br>
 # Dataset
 You can download the hyperspectral datasets in mat format at:, and move the files to ./datasets folder. <br>
 An example dataset folder has the following structure: <br>
-datasets
-├── Houston
+datasets <br>
+├── Houston <br>
 │   ├── Houston13.mat <br>
 │   └── Houston13_7gt.mat <br>
 │   ├── Houston18.mat <br>
