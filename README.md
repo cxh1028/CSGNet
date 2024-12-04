@@ -9,17 +9,17 @@ You can download the hyperspectral datasets in mat format at:, and move the file
 An example dataset folder has the following structure: <br>
 datasets
 ├── Houston
-│   ├── Houston13.mat
-│   └── Houston13_7gt.mat
-│   ├── Houston18.mat
-│   └── Houston18_7gt.mat
-├── Pavia
-│   ├── paviaU.mat
-│   └── paviaU_gt_7.mat
-│   ├── pavia.mat
-│   └── pavia_gt_7.mat
-│── Shanghai-Hangzhou
-│   ├── Shanghai.mat
-│   └── Shanghai_gt.mat
-│   ├── Hangzhou.mat
-│   └── Hangzhou_gt.mat
+│   ├── Houston13.mat <br>
+│   └── Houston13_7gt.mat <br>
+│   ├── Houston18.mat <br>
+│   └── Houston18_7gt.mat <br>
+├── Pavia <br>
+│   ├── paviaU.mat <br>
+│   └── paviaU_gt_7.mat <br>
+│   ├── pavia.mat <br>
+│   └── pavia_gt_7.mat <br>
+│── Shanghai-Hangzhou <br>
+│   ├── Shanghai.mat <br>
+│   └── Shanghai_gt.mat <br>
+│   ├── Hangzhou.mat <br>
+│   └── Hangzhou_gt.mat <br>
