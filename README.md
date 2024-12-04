@@ -2,8 +2,12 @@
 ![image](https://github.com/user-attachments/assets/adb1ada2-6cf6-481b-aca8-3956aab8c562)
 # Requirements
 CUDA Version: 11.3 <br>
+<br>
 torch: 1.11.0 <br>
+<br>
 Python: 3.8.10 <br>
+<br>
+cleanlab: 1.0 <br>
 # Dataset
 You can download the hyperspectral datasets in mat format at:, and move the files to ./datasets folder. <br>
 An example dataset folder has the following structure: <br>
